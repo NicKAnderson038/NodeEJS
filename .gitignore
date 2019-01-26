@@ -1,0 +1,13 @@
+# vs code
+.vscode
+
+# text files
+**.txt
+
+# node modules
+/node_modules
+
+# npm/yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
